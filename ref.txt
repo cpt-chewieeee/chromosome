@@ -1,0 +1,6 @@
+>gi|251831106|ref|NC_012920.1| Homo sapiens mitochondrion, complete genome
+AACCTGACATCTT
+>gi|251831106|complete genome
+AAC
+>gi|251831106|ref|NC_012920.1| complete genome
+CCAGCGTCAACTT
